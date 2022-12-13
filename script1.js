@@ -1,4 +1,4 @@
-<script>
+
 		(function (root, factory) {
 			if (typeof exports === 'object') {
 				// CommonJS like
@@ -415,4 +415,4 @@
 			*/
 			return Sketch;
 		}));
-	</script>
+	
